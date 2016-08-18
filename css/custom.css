@@ -1,1 +1,22 @@
 /* Add here all your CSS customizations */
+.features-block {
+    margin-top: 40px;
+}
+.features-text {
+    margin-top: 30px;
+}
+.features small {
+    color: #005275;;
+}
+.features h2 {
+    font-size: 15px;
+    margin-top: 5px;
+}
+.features-text-alone {
+    margin: 40px 0;
+
+}
+.features-icon {
+    color: #005275;;
+    font-size: 40px;
+}

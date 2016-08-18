@@ -1697,15 +1697,15 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 
 /* Primary */
 .featured-box-primary i.icon-featured {
-	background-color: #E36159;
+	background-color: #003852;
 }
 
 .featured-box-primary h4 {
-	color: #E36159;
+	color: #003852;
 }
 
 .featured-box-primary .box-content {
-	border-top-color: #E36159;
+	border-top-color: #003852;
 }
 
 /* Secundary */
@@ -1723,28 +1723,28 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 
 /* Tertiary */
 .featured-box-tertiary i.icon-featured {
-	background-color: #2BAAB1;
+	background-color: #003852;
 }
 
 .featured-box-tertiary h4 {
-	color: #2BAAB1;
+	color: #003852;
 }
 
 .featured-box-tertiary .box-content {
-	border-top-color: #2BAAB1;
+	border-top-color: #003852;
 }
 
 /* Quartenary */
 .featured-box-quartenary i.icon-featured {
-	background-color: #734BA9;
+	background-color: #006895;;
 }
 
 .featured-box-quartenary h4 {
-	color: #734BA9;
+	color: #006895;;
 }
 
 .featured-box-quartenary .box-content {
-	border-top-color: #734BA9;
+	border-top-color: #006895;;
 }
 
 /* Featured Boxes - Login */
